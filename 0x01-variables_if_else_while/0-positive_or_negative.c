@@ -4,6 +4,7 @@
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
+/* function is main */
 int main(void)
 {
 	int n;
@@ -14,14 +15,14 @@ int main(void)
 	/* your code goes there */
 	if (n > 0)
 	  {
-	    printf("the number is positive \n");
+	    printf("is positive \n");
 	  }
 	else if (n < 0){
-	  printf("The number is negative \n");
+	  printf("is negative \n");
 	}
 	else
 	  {
-	    printf("The number is zero");
+	    printf("is zero");
 	  }
 	return (0);
 }
