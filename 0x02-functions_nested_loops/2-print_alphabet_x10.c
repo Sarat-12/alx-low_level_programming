@@ -3,7 +3,7 @@
  *print alphabet *10 - print the alphabet ten y=times in lower case
  *followed by a new line
  */
-void print_alphabet_x10(void);
+void print_alphabet_x10(void)
 {
 char cha;
 int i;
